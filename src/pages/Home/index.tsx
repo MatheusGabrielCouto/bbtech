@@ -1,7 +1,8 @@
 import React from 'react'
+import * as S from './style'
 
 export default function Home() {
   return (
-    <div>index</div>
+    <S.Container>index</S.Container>
   )
 }
